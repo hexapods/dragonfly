@@ -1,0 +1,26 @@
+{
+  "config" : {
+    "chainId" : 78281,
+    "homesteadBlock" : 0,
+    "eip150Block" : 0,
+    "eip155Block" : 0,
+    "eip158Block" : 0,
+    "byzantiumBlock" : 0,
+    "constantinoplefixblock" : 0,
+    "muirglacierblock" : 0,
+    "ibft2" : {
+      "blockperiodseconds" : 2,
+      "epochlength" : 30000,
+      "requesttimeoutseconds" : 10,
+      "blockreward" : "1000000000000000000"
+    }
+  },
+  "nonce" : "0x0",
+  "gasUsed" : "0x0",
+  "timestamp" : "0x0",
+  "gasLimit" : "0x15752A00",
+  "difficulty" : "0x1",
+  "mixHash" : "0x63746963616c2062797a616e74696e65206661756c7420746f6c6572616e6365",
+  "extraData" : "0xf8fca00000000000000000000000000000000000000000000000000000000000000000f8d2943b3c446c34745028075f7130d0441707127a040a94f7f3fe3d917a2ae0eb949457e82885db153464c994f4a2bc64ca5a1ed855344092e79bce7c7a88b9269404c9df7ef0303d3686e7c89871cff8f7b609c4b094d9a81897ae1f03cfd6b0a51b0075e87ba515eeb99430042f87d5adce3c5170b6eaf9bda817ae8f1cac9463e2c4ad0e06a6d2ee20067b1036ce2882f70fbe94ba16dae68ba35561b5ade09a6b13136c5a02c1c494f3bf466a7a3b27b6f4b232e00d4695038e9e4f239498f8c9c888100a71d242ee79284d8162bed46d0f808400000000c0",
+  "coinbase" : "0x0000000000000000000000000000000000000000"
+}
