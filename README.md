@@ -10,20 +10,12 @@
 
 #### GRPC Endpoints
 * [https://dragonfly-rpc.phoenix-systems.io](https://dragonfly-rpc.phoenix-systems.io)
-* [https://dragonfly-rpc.block-spirit.ch](https://dragonfly-rpc.block-spirit.ch)
 * [https://dragonfly-rpc.hi1.ch](https://dragonfly-rpc.hi1.ch)
 * [https://dragonfly-rpc.switch.ch](https://dragonfly-rpc.switch.ch)
 * [https://dragonfly-rpc.phoenix-technologies.ch](https://dragonfly-rpc.phoenix-technologies.ch)
-* [https://dragonfly-rpc.kore-technologies.ch](https://dragonfly-rpc.kore-technologies.ch)
 
 #### Block Explorer
 * Blockscout: [https://blockscout.dragonfly.hexapod.network/](https://blockscout.dragonfly.hexapod.network/)
-* [https://dragonfly.phoenix-systems.io](https://dragonfly.phoenix-systems.io)
-* [https://dragonfly.block-spirit.ch](https://dragonfly.block-spirit.ch)
-* [https://dragonfly.hi1.ch](https://dragonfly.hi1.ch)
-* [https://dragonfly.switch.ch](https://dragonfly.switch.ch)
-* [https://dragonfly.phoenix-technologies.ch](https://dragonfly.phoenix-technologies.ch)
-* [https://dragonfly.kore-technologies.ch](https://dragonfly.kore-technologies.ch)
 
 #### MetaMask Configuration
 
@@ -59,39 +51,17 @@ Statement of the Validators: [Download](https://github.com/hexapods/dragonfly/bl
 * [https://phoenix-systems.ch](https://phoenix-systems.ch)
 * Validator address: [0x63e2c4ad0e06a6d2ee20067b1036ce2882f70fbe](https://blockscout.dragonfly.hexapod.network/address/0x63e2c4ad0e06a6d2ee20067b1036ce2882f70fbe)
 
-
-<img src="images/logo_kore.png" width="200" alt="KORE Technologies" title="KORE Technologies">
-
-* [https://kore-technologies.ch](https://kore-technologies.ch)
-* Validator address: [0x98f8c9c888100a71d242ee79284d8162bed46d0f](https://blockscout.dragonfly.hexapod.network/address/0x98f8c9c888100a71d242ee79284d8162bed46d0f)
-
-
 <img src="images/logo_green.png" width="200" alt="Green" title="Green">
 
 * [https://green.ch](https://green.ch)
 * Validator address: [0x30042f87d5adce3c5170b6eaf9bda817ae8f1cac](https://blockscout.dragonfly.hexapod.network/address/0x30042f87d5adce3c5170b6eaf9bda817ae8f1cac)
-
-<img src="images/logo_clst.png" width="200" alt="Clst" title="Clst">
-
-* [https://clst.com](https://clst.com)
-* Validator address: [0xba16dae68ba35561b5ade09a6b13136c5a02c1c4](https://blockscout.dragonfly.hexapod.network/address/0xba16dae68ba35561b5ade09a6b13136c5a02c1c4)
 
 <img src="images/logo_hicloud.png" width="200" alt="Hi, cloud" title="Hi, cloud">
 
 * [https://hi1.ch](https://hi1.ch)
 * Validator address: [0xd9a81897ae1f03cfd6b0a51b0075e87ba515eeb9](https://blockscout.dragonfly.hexapod.network/address/0xd9a81897ae1f03cfd6b0a51b0075e87ba515eeb9)
 
-<img src="images/logo_blockspirit.png" width="200" alt="Block Spirit" title="Block Spirit">
-
-* [https://block-spirit.ch](https://block-spirit.ch)
-* Validator address: [0xf7f3fe3d917a2ae0eb949457e82885db153464c9](https://blockscout.dragonfly.hexapod.network/address/0xf7f3fe3d917a2ae0eb949457e82885db153464c9)
-
 <img src="images/logo_phoenix_technologies.png" width="200" alt="Phoenix Technologies" title="Phoenix Technologies">
 
 * [https://phoenix-technologies.ch](https://phoenix-technologies.ch)
 * Validator address: [0xf3bf466a7a3b27b6f4b232e00d4695038e9e4f23](https://blockscout.dragonfly.hexapod.network/address/0xf3bf466a7a3b27b6f4b232e00d4695038e9e4f23)
-
-<img src="images/logo_logichain.png" width="200" alt="Logi Chain Foundation" title="Logi Chain Foundation">
-
-* [https://www.logichain.org](https://www.logichain.org)
-* Validator address: [0xf4a2bc64ca5a1ed855344092e79bce7c7a88b926](https://blockscout.dragonfly.hexapod.network/address/0xf4a2bc64ca5a1ed855344092e79bce7c7a88b926)
